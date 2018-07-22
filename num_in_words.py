@@ -1,4 +1,4 @@
-# num_in_words
+#words
 def main():
     pass
     n=input()
